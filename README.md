@@ -1,4 +1,5 @@
 # postcss-emptymediaqueries
+[![Build Status](https://travis-ci.org/ride-css/postcss-emptymediaqueries.svg?branch=master)](https://travis-ci.org/ride-css/postcss-emptymediaqueries)
 
 Removes empty media queries
 
