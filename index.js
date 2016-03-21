@@ -1,7 +1,6 @@
 'use strict';
 
 var postcss = require('postcss');
-var pkg = require('../package.json');
 
 module.exports = postcss.plugin(`ridecss-mediaqueries-remove`, function (opts) {
   opts = opts || { log: false };
