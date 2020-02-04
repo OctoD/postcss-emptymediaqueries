@@ -14,7 +14,7 @@
   "author": "Paolo Roth <iamoctod@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^2.4.5",
-    "postcss": "^7.0.17"
+    "mocha": "2.5.3",
+    "postcss": "7.0.26"
   }
 }
